@@ -1,0 +1,66 @@
+﻿<UserControl x:Class="Expert_Tamil_Dictionary.WindowsPhoneControl1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    d:DesignHeight="768" d:DesignWidth="480">
+    
+    <Grid x:Name="LayoutRoot" Background="{StaticResource PhoneBackgroundBrush}" >
+       
+        <TextBlock Foreground="{StaticResource PhoneAccentBrush}" FontSize="26" HorizontalAlignment="Left" Height="430" Margin="22,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="323">
+                	<Run Text="Prabakaran A"/>
+                	<LineBreak/>
+                	<Run/>
+                	<LineBreak/>
+                	<Run Text="MS Software Engineering(2011-2016)"/>
+                	<LineBreak/>
+                	<Run/>
+                	<LineBreak/>
+                	<Run Text="VIT University - Chennai Campus"/>
+                	<LineBreak/>
+                	<Run/>
+                	<LineBreak/>
+                	<Run Text="Tamil Nadu State"/>
+                	<LineBreak/>
+                	<Run/>
+                	<LineBreak/>
+                	<Run Text="India - 600 048"/>
+                	<LineBreak/>
+                	<Run/>
+                	<LineBreak/>
+                	<Run/>
+                	<LineBreak/>
+                	<Run/>
+        </TextBlock>
+        <Button Content="" HorizontalAlignment="Left" Height="77" Margin="10,523,0,0" VerticalAlignment="Top" Width="80" RenderTransformOrigin="1.758,0.655" Click="Button_Click_2">
+            <Button.Background>
+                <ImageBrush ImageSource="personal/f.png"/>
+            </Button.Background>
+
+        </Button>
+        <Button Content="" HorizontalAlignment="Left" Height="77" Margin="90,523,0,0" VerticalAlignment="Top" Width="85" Click="Button_Click_1">
+            <Button.Background>
+                <ImageBrush ImageSource="personal/t.png"/>
+            </Button.Background>
+
+        </Button>
+
+
+        <Button Content="" HorizontalAlignment="Left" Height="77" Margin="180,523,0,0" VerticalAlignment="Top" Width="80" RenderTransformOrigin="4.303,0.586" Click="Button_Click_3">
+            <Button.Background>
+                <ImageBrush ImageSource="personal/l.png"/>
+            </Button.Background>
+        </Button>
+
+        <Button Content="" HorizontalAlignment="Left" Height="73" Margin="265,527,0,0" VerticalAlignment="Top" Width="80" RenderTransformOrigin="3.829,0.931" Click="Button_Click_4">
+            <Button.Background>
+                <ImageBrush ImageSource="personal/g.jpg"/>
+            </Button.Background>
+
+        </Button>
+    </Grid>
+</UserControl>

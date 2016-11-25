@@ -1,0 +1,173 @@
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\ARM\Release\add.jpg
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\ARM\Release\Win.jpg
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\ARM\Release\Assets\ApplicationIcon.png
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\ARM\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\ARM\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\ARM\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\ARM\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\ARM\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\ARM\Release\encrypted.db3
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\ARM\Release\Expert_Tamil_Dictionary.dll
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\ARM\Release\Expert_Tamil_Dictionary.pdb
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\ARM\Release\AppManifest.xaml
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\ARM\Release\Expert_Tamil_Dictionary_Release_x86.xap
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\ARM\Release\Sqlite.winmd
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\ARM\Release\Sqlite.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Assets\ApplicationIcon.png
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\encrypted.db3
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Expert_Tamil_Dictionary.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Expert_Tamil_Dictionary.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\AppManifest.xaml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Expert_Tamil_Dictionary_Release_x86.xap
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Microsoft.Phone.Controls.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Sqlite.winmd
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Sqlite.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\x86\Release\Expert_Tamil_Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\x86\Release\App.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\x86\Release\MainPage.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\x86\Release\about.g.cs
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\x86\Release\Expert_Tamil_Dictionary.g.resources
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\x86\Release\Expert_Tamil_Dictionary.Resources.AppResources.resources
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\x86\Release\Expert_Tamil_Dictionary.csproj.GenerateResource.Cache
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\x86\Release\Expert_Tamil_Dictionary.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\x86\Release\Expert_Tamil_Dictionary.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\x86\Release\XapCacheFile.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Properties\WMAppManifest.xml
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\dictionary.txt
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\PrabaKarthi\Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Assets\ApplicationIcon.png
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Assets\Tiles\FlipCycleTileLarge.png
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Assets\Tiles\FlipCycleTileMedium.png
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Assets\Tiles\FlipCycleTileSmall.png
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Assets\Tiles\IconicTileMediumLarge.png
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Assets\Tiles\IconicTileSmall.png
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\dictionary.txt
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\encrypted.db3
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Expert_Tamil_Dictionary.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Expert_Tamil_Dictionary.pdb
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\AppManifest.xaml
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Properties\WMAppManifest.xml
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Expert_Tamil_Dictionary_Release_x86.xap
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Microsoft.Phone.Controls.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Newtonsoft.Json.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Sqlite.winmd
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Microsoft.Phone.Controls.Toolkit.pdb
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\Sqlite.pdb
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\Bin\x86\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\x86\Release\Expert_Tamil_Dictionary.csprojResolveAssemblyReference.cache
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\x86\Release\App.g.cs
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\x86\Release\MainPage.g.cs
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\x86\Release\about.g.cs
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\x86\Release\Expert_Tamil_Dictionary.g.resources
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\x86\Release\Expert_Tamil_Dictionary.Resources.AppResources.resources
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\x86\Release\Expert_Tamil_Dictionary.csproj.GenerateResource.Cache
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\x86\Release\Expert_Tamil_Dictionary.dll
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\x86\Release\Expert_Tamil_Dictionary.pdb
+E:\My Documents\Visual Studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\x86\Release\XapCacheFile.xml

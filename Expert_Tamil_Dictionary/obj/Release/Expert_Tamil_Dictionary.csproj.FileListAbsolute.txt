@@ -1,0 +1,7 @@
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\Release\App.g.cs
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\Release\MainPage.g.cs
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\Release\Expert_Tamil_Dictionary.g.resources
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\Release\Expert_Tamil_Dictionary.Resources.AppResources.resources
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\Release\Expert_Tamil_Dictionary.csproj.GenerateResource.Cache
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\Release\Expert_Tamil_Dictionary.dll
+C:\Users\PrabaKarthi\documents\visual studio 2012\Projects\Expert_Tamil_Dictionary\Expert_Tamil_Dictionary\obj\Release\Expert_Tamil_Dictionary.pdb

@@ -1,0 +1,6 @@
+<MarketplaceDetails>
+  <SmallAppTile>300x300.png</SmallAppTile>
+  <ScreenShots>1.png;2.png;3.png;4.png;5.png;6.png;7.png;8.png;</ScreenShots>
+  <ScreenShotsWXGA>11.png;22.png;33.png;44.png;55.png;66.png;77.png;88.png;</ScreenShotsWXGA>
+  <ScreenShots720P>111.png;222.png;333.png;444.png;555.png;666.png;777.png;888.png;</ScreenShots720P>
+</MarketplaceDetails>

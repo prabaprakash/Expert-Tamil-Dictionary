@@ -1,0 +1,173 @@
+﻿<phone:PhoneApplicationPage x:Class="Expert_Tamil_Dictionary.MainPage"
+                            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                            xmlns:control="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+                            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                            xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+                            xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+                            FontFamily="{StaticResource PhoneFontFamilyNormal}"
+                            FontSize="{StaticResource PhoneFontSizeNormal}"
+                            Foreground="{StaticResource PhoneForegroundBrush}"
+                            Orientation="Portrait"
+                            SupportedOrientations="Portrait"
+                            shell:SystemTray.IsVisible="True"
+                            mc:Ignorable="d">
+
+    <!--  LayoutRoot is the root grid where all page content is placed  -->
+    <phone:PhoneApplicationPage.Resources>
+        <!--
+            <Style x:Name="txtblockcolour" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="{StaticResource PhoneAccentBrush}"></Setter>
+            </Style>
+            <Style x:Name="txtboxcolour" TargetType="TextBox">
+            <Setter Property="Foreground" Value="{StaticResource PhoneAccentBrush}"></Setter>
+            </Style>
+        -->
+    </phone:PhoneApplicationPage.Resources>
+   
+    <phone:Pivot x:Name="mainpivot"
+                 Title="தமிழ் அகராதி"
+                 Background="{StaticResource PhoneBackgroundBrush}"
+                 Foreground="{StaticResource PhoneAccentBrush}"
+                 LoadingPivotItem="Mainpivot_OnLoadingPivotItem">
+        <phone:PivotItem x:Name="searchpivot"
+                         FontSize="10"
+                         Header="தேடுதல்">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="13*" />
+                    <ColumnDefinition Width="310*" />
+                    <ColumnDefinition Width="97*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="80*" />
+                    <RowDefinition Height="451*" />
+                </Grid.RowDefinitions>
+
+                <control:PhoneTextBox x:Name="textbox2"
+                         Grid.Row="0"
+                         Grid.Column="0"
+                         Grid.ColumnSpan="3"
+                         Background="#FFFFFCFC"
+                         BorderBrush="Black"
+                         FontSize="28"
+                         FontWeight="Medium"
+                         Foreground="{StaticResource PhoneAccentBrush}"
+                         KeyDown="textbox2_KeyDown_1"
+                         SelectionBackground="#FF7C2218"
+                         SelectionForeground="#FFD6AFAF"
+                         TextAlignment="Left"
+                         TextChanged="textbox2_TextChanged" />
+                <!--
+                    <Button Grid.Row="0"
+                    Grid.Column="2"
+                    Width="97"
+                    HorizontalAlignment="Left"
+                    Background="Chocolate"
+                    Click=""
+                    Content="R" />
+                -->
+
+
+                <ListBox Name="list"
+                         Grid.Row="1"
+                         Grid.Column="1"
+                         Grid.ColumnSpan="2"
+                         MinHeight="8"
+                         FontSize="30"
+                         Foreground="{StaticResource PhoneAccentBrush}"
+                         SelectionChanged="list_SelectionChanged"
+                         SelectionMode="Single">
+                    <!--
+                        <ListBox.ItemTemplate>
+                        <DataTemplate>
+                        <StackPanel>
+                        <TextBlock Text="{Binding Words}"> </TextBlock>
+                        </StackPanel>
+                        </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    -->
+                </ListBox>
+
+            </Grid>
+
+        </phone:PivotItem>
+        <phone:PivotItem x:Name="meaningpivot"
+                         Header="பொருள்"
+                         SizeChanged="FrameworkElement_OnSizeChanged">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="115*" />
+                    <RowDefinition Height="416*" />
+                </Grid.RowDefinitions>
+
+                <TextBlock x:Name="word"
+                           FontSize="30"
+                           Foreground="{StaticResource PhoneAccentBrush}"
+                           TextWrapping="Wrap" />
+
+                <ScrollViewer Grid.Row="1" Grid.Column="0">
+                    <TextBlock Name="fff"
+                               FontSize="30"
+                               FontWeight="Medium"
+                               Foreground="{StaticResource PhoneAccentBrush}"
+                               TextWrapping="Wrap" />
+
+                </ScrollViewer>
+            </Grid>
+        </phone:PivotItem>
+
+        <phone:PivotItem Header="சமீபத்தில்" SizeChanged="Button_Click_4">
+
+            <Grid>
+                <ScrollViewer>
+                <ListBox x:Name="list1"
+                         Grid.Row="0"
+                         Grid.Column="0"
+                         FontSize="30"
+                         Foreground="{StaticResource PhoneAccentBrush}"
+                         SelectionChanged="list1_SelectionChanged" />
+                </ScrollViewer>
+            </Grid>
+        </phone:PivotItem>
+    </phone:Pivot>
+
+
+
+
+
+
+
+
+
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar BackgroundColor="Gray"
+                              IsMenuEnabled="True"
+                              IsVisible="True">
+
+            <shell:ApplicationBarIconButton Click="socialshare"
+                                            IconUri="share.png"
+                                            Text="share Social" />
+
+            <shell:ApplicationBarIconButton Click="share"
+                                            IconUri="mail.png"
+                                            Text="send sms" />
+
+            <shell:ApplicationBarIconButton Click="deleteall"
+                                            IconUri="delete.png"
+                                            Text="delete list" />
+
+
+
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Click="ShareEmail" Text="share meaning via Email" />
+                <shell:ApplicationBarMenuItem Click="about" Text="About" />
+                <shell:ApplicationBarMenuItem Click="get" Text="get for windows 8 metro" />
+
+                <!--  <shell:ApplicationBarMenuItem Text="get mini size value" Click="MenuItem2_Click" />  -->
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+</phone:PhoneApplicationPage>
